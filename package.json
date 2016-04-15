@@ -1,0 +1,26 @@
+{
+  "name": "rethink-monitor-queries",
+  "version": "0.0.1",
+  "description": "A tool to monitor rethinkdb slow queries",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rsantosdev/rethinkdb-monitor-queries.git"
+  },
+  "keywords": [
+    "rethinkdb",
+    "rethinkdbdash"
+  ],
+  "author": "rsantosdev",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rsantosdev/rethinkdb-monitor-queries/issues"
+  },
+  "homepage": "https://github.com/rsantosdev/rethinkdb-monitor-queries#readme",
+  "dependencies": {
+    "rethinkdbdash": "^2.2.20"
+  }
+}
